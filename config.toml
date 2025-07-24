@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Tumbling Rock"
+theme = "PaperMod"
+
+[params]
+  author = "Brody"
+  showReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
