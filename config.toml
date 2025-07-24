@@ -12,3 +12,4 @@ theme = "PaperMod"
     name = "Posts"
     url = "/posts/"
     weight = 1
+publishDir = "docs"
